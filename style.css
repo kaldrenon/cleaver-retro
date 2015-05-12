@@ -30,6 +30,18 @@ em {
   border-bottom: 1px solid #666;
 }
 
+/**
+ * Tables
+ */
 table td {
-  padding: 5px;
+  padding: 8px;
+  border-right: 1px solid white;
+}
+
+table td:last-child {
+  border: none;
+}
+
+table th {
+  border-bottom: 3px solid white;
 }
