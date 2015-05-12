@@ -36,6 +36,7 @@ em {
 table td {
   padding: 8px;
   border-right: 1px solid white;
+  border-bottom: 1px solid #888;
 }
 
 table td:last-child {
