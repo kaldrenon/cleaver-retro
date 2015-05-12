@@ -29,3 +29,7 @@ code {
 em {
   border-bottom: 1px solid #666;
 }
+
+table td {
+  padding: 5px;
+}
